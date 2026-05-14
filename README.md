@@ -123,6 +123,13 @@
       font-size: 0.85rem;
       letter-spacing: 0.05em;
       opacity: 0.7;
+      border: none;
+      padding: 0;
+    }
+    .artist-tag:hover {
+      background: none;
+      color: #fff;
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -169,16 +176,16 @@
   <!-- Reflections -->
   <section>
     <h2>REFLECTIONS</h2>
-    <blockquote>“It connected the dots in a way I could never have done alone.”</blockquote>
-    <blockquote>“Our weekly sessions felt like group therapy — in the best possible way.”</blockquote>
-    <blockquote>“I finished my album during the course.”</blockquote>
+    <blockquote>"It connected the dots in a way I could never have done alone."</blockquote>
+    <blockquote>"Our weekly sessions felt like group therapy — in the best possible way."</blockquote>
+    <blockquote>"I finished my album during the course."</blockquote>
   </section>
 
   <!-- Call to Action -->
   <section>
     <h2>NEXT COHORT</h2>
-    <p>April 27, 2026 · €550</p>
-    <p>peace@aintaboutme.com · @7aint7about7me</p>
+    <p>October 5, 2026 · €550</p>
+    <p>peace@letthatinkflow.com · @7aint7about7me</p>
     <div class="cta">
       <a href="mailto:peace@letthatinkflow.com">Apply Now</a>
     </div>
@@ -187,7 +194,7 @@
   <!-- About Me Section -->
   <section>
     <h2>ABOUT</h2>
-    <p>Łukasz Polowczyk <span class="artist-tag">(aint about me)</span> is a Berlin-based sound artist, poet, and educator. His practice is the translation of a single poetic idea across many forms — poem, sound piece, spoken word with experimental jazz, site-specific installation, book, photograph.</p>
+    <p>Łukasz Polowczyk <a href="https://www.aintaboutme.com" target="_blank" class="artist-tag">(aint about me)</a> is a Berlin-based sound artist, poet, and educator. His practice is the translation of a single poetic idea across many forms — poem, sound piece, spoken word with experimental jazz, site-specific installation, book, photograph.</p>
   </section>
 
   <script>
