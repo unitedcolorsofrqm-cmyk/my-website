@@ -184,7 +184,7 @@
   <!-- Call to Action -->
   <section>
     <h2>NEXT COHORT</h2>
-    <p>October 5, 2026 · €550</p>
+    <p>Week of October 26, 2026 · €550</p>
     <p>peace@letthatinkflow.com · @7aint7about7me</p>
     <div class="cta">
       <a href="mailto:peace@letthatinkflow.com">Apply Now</a>
